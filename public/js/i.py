@@ -1,0 +1,6 @@
+fp = open('estados_cidades.json','r')
+file = fp.read()
+fp2 = open('estados_cidades1.json','w')
+fp2.write(file)
+fp.close()
+fp2.close()
