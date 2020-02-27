@@ -76,3 +76,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Observation
+
+In order to get into home, you must use root@admin.com as login and 1234 às password 
