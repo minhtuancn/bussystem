@@ -1,3 +1,7 @@
+## Observations
+
+In order to get into home and create new buses routes, register users, and buses, you must use root@admin.com as login and 1234 as password. The database used in this project is called onibus.sql, which is in the root.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -77,6 +81,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Observation
-
-In order to get into home, you must use root@admin.com as login and 1234 às password 
